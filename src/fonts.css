@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'URW Scenario W01 Bold';
+  src: url('./assets/fonts/urw-scenario-bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Apercu Regular';
+  src: url('./assets/fonts/apercu-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

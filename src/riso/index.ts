@@ -1,0 +1,5 @@
+export { createRenderer, type Renderer, type RendererStats } from './renderer'
+export type { PrintedBox } from './boxes'
+export { INK_IDS, INKS, PAPER, printedColor, treelineColor, type InkId } from './palette'
+export { sunPosition } from './scene'
+export { densitiesAt, sunElevation, type InkDensities } from './timeline'

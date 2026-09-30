@@ -1,0 +1,161 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`describeFrame > matches the recorded frames 1`] = `
+[
+  {
+    "densities": {
+      "forest": {
+        "blue": 0.15,
+        "federal": 0.75,
+        "yellow": 0.25,
+      },
+      "mountains": {
+        "blue": 0.4,
+        "pink": 0.55,
+      },
+      "sky": {
+        "blue": 0.15,
+        "pink": 0.5,
+        "yellow": 0.7,
+      },
+      "sunDisc": {
+        "pink": 0.8,
+        "yellow": 1,
+      },
+      "sunGlow": {
+        "pink": 0.7,
+        "yellow": 0.6,
+      },
+    },
+    "sun": [
+      115.2,
+      562.5993612739015,
+    ],
+    "t": 0,
+  },
+  {
+    "densities": {
+      "forest": {
+        "blue": 0.125,
+        "federal": 0.725,
+        "yellow": 0.34259259259259256,
+      },
+      "mountains": {
+        "blue": 0.47500000000000003,
+        "pink": 0.15000000000000002,
+      },
+      "sky": {
+        "blue": 0.5,
+        "pink": 0.14259259259259258,
+        "yellow": 0.2866666666666667,
+      },
+      "sunDisc": {
+        "pink": 0.19999999999999996,
+        "yellow": 1,
+      },
+      "sunGlow": {
+        "pink": 0.15000000000000002,
+        "yellow": 0.22962962962962957,
+      },
+    },
+    "sun": [
+      417.59999999999997,
+      212.14991649321746,
+    ],
+    "t": 0.25,
+  },
+  {
+    "densities": {
+      "forest": {
+        "blue": 0.1,
+        "federal": 0.7,
+        "yellow": 0.4,
+      },
+      "mountains": {
+        "blue": 0.55,
+        "pink": 0.05,
+      },
+      "sky": {
+        "blue": 0.6,
+        "pink": 0.05,
+        "yellow": 0.12,
+      },
+      "sunDisc": {
+        "pink": 0,
+        "yellow": 1,
+      },
+      "sunGlow": {
+        "pink": 0.05,
+        "yellow": 0.12,
+      },
+    },
+    "sun": [
+      720,
+      114.73176062922104,
+    ],
+    "t": 0.5,
+  },
+  {
+    "densities": {
+      "forest": {
+        "blue": 0.30043731778425653,
+        "federal": 0.83671875,
+        "yellow": 0.45,
+      },
+      "mountains": {
+        "blue": 0.7208984375,
+        "pink": 0.3,
+      },
+      "sky": {
+        "blue": 0.35,
+        "pink": 0.3415283203125,
+        "yellow": 0.490771484375,
+      },
+      "sunDisc": {
+        "pink": 0.3,
+        "yellow": 1,
+      },
+      "sunGlow": {
+        "pink": 0.35,
+        "yellow": 0.5,
+      },
+    },
+    "sun": [
+      1022.4,
+      331.9926025581203,
+    ],
+    "t": 0.75,
+  },
+  {
+    "densities": {
+      "forest": {
+        "blue": 0.7,
+        "federal": 1,
+        "yellow": 0,
+      },
+      "mountains": {
+        "blue": 1,
+        "pink": 0.5,
+      },
+      "sky": {
+        "blue": 1,
+        "pink": 0.6,
+        "yellow": 0.1,
+      },
+      "sunDisc": {
+        "pink": 0.9,
+        "yellow": 1,
+      },
+      "sunGlow": {
+        "pink": 0.5,
+        "yellow": 0.4,
+      },
+    },
+    "sun": [
+      1324.8,
+      726.4464365693239,
+    ],
+    "t": 1,
+  },
+]
+`;
